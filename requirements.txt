@@ -1,0 +1,14 @@
+# Deep Learning and Image Processing
+tensorflow>=2.0
+numpy
+opencv-python-headless  # For cv2 module
+Pillow # A general dependency for image handling
+
+# Data Analysis and Visualization
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# Web Application
+streamlit
